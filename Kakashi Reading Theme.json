@@ -1,0 +1,25 @@
+{
+    "manifest": {
+        "author": "Chime in theyre natraul habitat#1553",
+        "name": "Kakashi Reading Theme",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018655580207972402\/images_19.jpeg",
+        "overlay_alpha": 5
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -15042247,
+        "background": 0,
+        "background_secondary": 0,
+        "mention_highlight": -2145009575,
+        "active_channel": -14303143,
+        "statusbar": -15042247,
+        "blocked_bg": -15635114,
+        "input_background": -15635114
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
